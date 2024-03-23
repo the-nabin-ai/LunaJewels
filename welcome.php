@@ -30,6 +30,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
             <li><a href="index.html" id="active">Home</a></li>
             <li><a href="aboutus.html">AboutUs</a></li>
             <li><a href="contact.html">ContactUs</a></li>
+            <li><a href="cart.php"><img src="img/cart.png" alt=""></a></li>
             <li><a href="logout.php">Logout</a></li>
         </ul>
     </header>
