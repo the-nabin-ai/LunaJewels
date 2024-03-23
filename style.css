@@ -53,6 +53,12 @@ header ul li a {
     border-radius: 20px;
 }
 
+header ul li img{
+    width: 4vh;
+    height: 4vh;
+}
+
+
 header ul li a:hover,
 header ul li a#active {
     background: #fff;
